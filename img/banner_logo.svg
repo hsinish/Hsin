@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="826px" height="678px" viewBox="0 0 826 678" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="808px" height="678px" viewBox="0 0 808 678" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
     <title>banner_logo</title>
     <desc>Created with Sketch.</desc>
@@ -7,11 +7,11 @@
         <rect id="path-1" x="0" y="0" width="826" height="678"></rect>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="banner_logo">
+        <g id="banner_logo" transform="translate(-2.000000, 0.000000)">
             <mask id="mask-2" fill="white">
                 <use xlink:href="#path-1"></use>
             </mask>
-            <rect stroke="#979797" x="0.5" y="0.5" width="825" height="677"></rect>
+            <g id="Rectangle"></g>
             <g id="Group" mask="url(#mask-2)">
                 <g transform="translate(-3.000000, 0.000000)">
                     <path d="M577,0 L671,0 C683.150264,-2.23196738e-15 693,9.8497355 693,22 L693,824 C693,836.150264 683.150264,846 671,846 L577,846 C564.849736,846 555,836.150264 555,824 L555,22 C555,9.8497355 564.849736,2.23196738e-15 577,0 Z" id="Rectangle" fill="#1AA4B2"></path>
