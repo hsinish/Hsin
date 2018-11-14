@@ -47,18 +47,18 @@ a{
 .header{
     width: 100%;
     height: 70px;
-/*    background-color: rgba(255, 255, 255, 0.85);*/
     padding: 0 40px;
     box-sizing: border-box;
     vertical-align: middle;
-    position: absolute;
-    top: 0;
+/*    position: absolute;*/
+/*    top: 0;*/
+    display: flex;
 }
 
 .logo{
     width: 50px;
-    position: absolute;
-    top: 0;bottom: 0;
+/*    position: absolute;*/
+/*    top: 0;bottom: 0;*/
     margin: auto;
 }
 .logo img{
@@ -186,7 +186,7 @@ a{
 }
 
 .project01{
-    background: url('../img/portal_cover.png');
+    background: url('../img/portal_cover.png')center center ;
     background-size: cover;
     }
 .project01::after{
@@ -195,16 +195,16 @@ a{
 }
 
 .project02{
-    background: url('../img/light_cover.png');
+    background: url('../img/light_cover.png') center center;
     background-size: cover;
     }
 
 .project03{
-    background: url('../img/meeting_cover.png');
+    background: url('../img/meeting_cover.png') center center;
     background-size: cover;
     }
 .project04{
-    background: url('../img/ski_cover.png');
+    background: url('../img/ski_cover.png') center center;
     background-size: cover;
     }
 
