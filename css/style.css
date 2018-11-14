@@ -121,7 +121,8 @@ a{
     width: 100%;
     transform: translateX(10%) ;
     position: absolute;
-    bottom: -20%;
+/*    bottom: -20%;*/
+    top: 20%;
     z-index: 1;
 }
 
