@@ -1,0 +1,247 @@
+*{
+    position: relative;
+/*    border: 1px solid black;*/
+/*    overflow: hidden;*/
+    
+}
+
+body, html{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    color: #444;
+    
+}
+body{
+    background-color: #F5F2EE;
+}
+
+h2{
+    font-size: 2.25rem;
+    letter-spacing: 0.02rem;
+}
+h3{
+    font-size: 1.75rem;
+    letter-spacing: 0.08rem;
+}
+
+h5{
+    font-size: 0.8rem;
+}
+
+
+p{
+    font-size: 1rem;
+    line-height: 1.8rem;
+    letter-spacing: 0.02rem;
+}
+
+a{
+    text-decoration: none;
+    color: #444;
+}
+
+/*landing page*/
+.header{
+    width: 100%;
+    height: 70px;
+    padding: 0 40px;
+    box-sizing: border-box;
+    vertical-align: middle;
+/*    position: absolute;*/
+/*    top: 0;*/
+    display: flex;
+}
+
+.logo{
+    width: 50px;
+/*    position: absolute;*/
+/*    top: 0;bottom: 0;*/
+    margin: auto;
+}
+.logo img{
+    width: 50px;
+    top: 7px;
+}
+
+/*menu tutorial: https://www.w3schools.com/css/css_navbar.asp*/
+.menu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: block;
+    position: absolute;
+    right: 30px;
+    top: 0;bottom: 0;
+    z-index: 999;
+}
+.menu li{
+    float: right;
+    line-height: 40px;
+}
+.menu li a{
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color:#999;
+    font-weight: 800;
+    
+}
+.menu li a:hover{
+    color: #333;
+}
+
+/*start of index*/
+
+
+
+.jumbo{
+/*    background-color: white;*/
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.jumbo .logo{
+    visibility: hidden;
+}
+
+.main_graphic{
+    width: 70%;
+    height: 100%;
+    position: absolute;
+    bottom: 0;
+    right: 0%;
+}
+.main_graphic img{
+    width: 100%;
+    transform: translateX(10%) ;
+    position: absolute;
+    bottom: -20%;
+    z-index: 1;
+}
+
+
+/*tutorial: https://www.youtube.com/watch?v=0l2SdoUYB6k*/
+.slogan{
+    position: absolute;
+    text-align: left;
+    width: 85%;
+    top: 250px;
+    left: 15%;
+    z-index: 998;
+    
+}
+
+
+.slogan p, .slogan span{
+    color: #333;
+    font-size: 2.75rem;
+    margin: 0;
+    font-weight: 300;
+    letter-spacing: 1.3px;
+    margin-bottom: 40px;
+} 
+
+.introduce{
+    display: inline-block;
+}
+.bolder, #typed{
+    font-weight: 800;
+    color: #333;
+/*    color:#00638F;*/
+}
+
+/*
+.typed-cursor {
+}
+*/
+
+
+
+
+
+
+
+
+/*projects*/
+.project_list{
+    width: 100%;
+    font-size: 0;
+    
+    
+}
+.project_list{
+    background-color: black;
+    
+}
+.project{
+    width: 50%;
+    height: 400px;
+    display: inline-block;
+}
+
+.project01{
+    background: url('../img/portal_cover.png')center center ;
+    background-size: cover;
+    }
+.project01::after{
+    content: '';
+    z-index: -1;
+}
+
+.project02{
+    background: url('../img/light_cover.png') center center;
+    background-size: cover;
+    }
+
+.project03{
+    background: url('../img/meeting_cover.png') center center;
+    background-size: cover;
+    }
+.project04{
+    background: url('../img/ski_cover.png') center center;
+    background-size: cover;
+    }
+
+/*.project05{
+    background: url('');
+}
+*/
+/*.project06{
+    background: url('');
+    
+}
+*/
+
+
+.project:hover {
+    opacity: 0.3;
+}
+
+
+
+
+
+
+/*footer*/
+.footer{
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    background-color: rgba(256, 256, 256, 0.7);
+}
+.email{
+    top: 10px;
+    color:darkgray;
+    text-decoration: none;
+}
+.email:hover{
+    color: dodgerblue;
+    text-decoration: underline;
+    font-weight: 600;
+}

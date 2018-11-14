@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="836px" height="376px" viewBox="0 0 836 376" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>erp_structure</title>
+    <desc>Created with Sketch.</desc>
+    <g id="final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="erp02" transform="translate(-260.000000, -376.000000)">
+            <g id="Group-3" transform="translate(1.000000, 0.000000)">
+                <g id="erp_structure" transform="translate(259.000000, 363.000000)">
+                    <text id="Outside-the-office" opacity="0.699999988" font-family="Avenir-Heavy, Avenir" font-size="20" font-weight="600" line-spacing="46" letter-spacing="0.01538461" fill="#FFFFFF">
+                        <tspan x="356.099231" y="20">Outside the office</tspan>
+                    </text>
+                    <text id="Inside-the-office" opacity="0.699999988" font-family="Avenir-Heavy, Avenir" font-size="20" font-weight="600" line-spacing="46" letter-spacing="0.01538461" fill="#FFFFFF">
+                        <tspan x="365.046923" y="377">Inside the office</tspan>
+                    </text>
+                    <text id="Create-forms" opacity="0.699999988" font-family="Avenir-Heavy, Avenir" font-size="20" font-weight="600" line-spacing="46" letter-spacing="0.01538461" fill="#FFFFFF">
+                        <tspan x="714.317692" y="202">Create forms</tspan>
+                    </text>
+                    <text id="Check-information" opacity="0.699999988" font-family="Avenir-Heavy, Avenir" font-size="20" font-weight="600" line-spacing="46" letter-spacing="0.01538461" fill="#FFFFFF">
+                        <tspan x="0.449230815" y="202">Check information</tspan>
+                    </text>
+                    <path d="M183,208 L697,208" id="Path-14" stroke="#FFFFFF" stroke-width="2" opacity="0.400000006"></path>
+                    <path d="M440,55 L440,356.5" id="Path-15" stroke="#FFFFFF" stroke-width="2" opacity="0.400000006"></path>
+                    <text id="Sales" font-family="Avenir-Heavy, Avenir" font-size="23" font-weight="600" line-spacing="46" letter-spacing="0.01769231" fill="#FFFFFF">
+                        <tspan x="346.482269" y="131">Sales</tspan>
+                    </text>
+                    <circle id="Oval" stroke="#4DEE5E" stroke-width="2" cx="374" cy="83" r="9"></circle>
+                    <path d="M389,107 C389,98.7157288 382.284271,92 374,92 C365.715729,92 359,98.7157288 359,107" id="Oval-Copy" stroke="#4DEE5E" stroke-width="2"></path>
+                    <text id="Managers" font-family="Avenir-Heavy, Avenir" font-size="23" font-weight="600" line-spacing="46" letter-spacing="0.01769231" fill="#FFFFFF">
+                        <tspan x="144.902731" y="168">Managers</tspan>
+                    </text>
+                    <circle id="Oval" stroke="#4DEE5E" stroke-width="2" cx="198" cy="120" r="9"></circle>
+                    <path d="M213,144 C213,135.715729 206.284271,129 198,129 C189.715729,129 183,135.715729 183,144" id="Oval-Copy" stroke="#4DEE5E" stroke-width="2"></path>
+                    <text id="General" font-family="Avenir-Heavy, Avenir" font-size="23" font-weight="600" line-spacing="46" letter-spacing="0.01769231" fill="#FFFFFF">
+                        <tspan x="628.549077" y="381">General</tspan>
+                    </text>
+                    <circle id="Oval" stroke="#4DEE5E" stroke-width="2" cx="671" cy="333" r="9"></circle>
+                    <path d="M686,357 C686,348.715729 679.284271,342 671,342 C662.715729,342 656,348.715729 656,357" id="Oval-Copy" stroke="#4DEE5E" stroke-width="2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
