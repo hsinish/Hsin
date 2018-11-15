@@ -114,6 +114,7 @@
 
 .ski_content{
     transform: translateY(-80px);
+    z-index: 2;
 }
 
 .ski_content img{
