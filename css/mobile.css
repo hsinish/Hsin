@@ -81,4 +81,13 @@
     .light_rr h3{
         margin: auto;
     }
+    
+    
+/*    start of hood*/
+    .hood_right p, .hood_right h3{
+        padding: 15px 0 0 10%;
+    }
+    .hood_left p, .hood_left h3{
+        padding: 15px 10% 0 0;
+    }
 }

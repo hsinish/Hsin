@@ -201,18 +201,21 @@ a{
     }
 
 .project03{
-    background: url('../img/meeting_cover.png') center center;
+    background: url('../img/hood_cover.png') center center;
     background-size: cover;
     }
 .project04{
-    background: url('../img/ski_cover.png') center center;
+    background: url('../img/office_cover.png') center center;
     background-size: cover;
     }
 
-/*.project05{
-    background: url('');
+.project05{
+    background: url('../img/ski_cover.png') center center ;
+    background-size: cover;
+    
+    width: 100%;
 }
-*/
+
 /*.project06{
     background: url('');
     
